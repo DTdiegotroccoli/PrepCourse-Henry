@@ -1,2 +1,3 @@
-# PrepCourse-Henry
-Mi primer repositorio de prueba
+Diego Troccoli  
+
+Estoy probando de nuevo git y aprendiendo
